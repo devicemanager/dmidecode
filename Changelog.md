@@ -1,4 +1,4 @@
-Acidanthera dmidecode Changelog
+devicemanager dmidecode Changelog
 ===============================
 
 #### v3.4a

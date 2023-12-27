@@ -1,9 +1,9 @@
 dmidecode
 =========
 
-[![Build Status](https://github.com/acidanthera/dmidecode/workflows/CI/badge.svg?branch=master)](https://github.com/acidanthera/dmidecode/actions)
+[![Build Status](https://github.com/devicemanager/dmidecode/workflows/CI/badge.svg?branch=master)](https://github.com/devicemanager/dmidecode/actions)
 
-**ACIDANTHERA NOTES**
+**devicemanager NOTES**
 
 This dmidecode version supports Apple-specific table decoding as well
 as native macOS SMBIOS reading through I/O Registry. Synced with
